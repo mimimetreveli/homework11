@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59ddff7c-3613-4f38-9af7-efc972865a03" name="Changes" comment="a">
-      <change afterPath="$PROJECT_DIR$/homework11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numbers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework11_number2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oscar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +47,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.homework11.executor": "Run",
+    "Python.homework11_number2.executor": "Run",
     "Python.number1.executor": "Run",
     "Python.number11.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -88,7 +89,23 @@
       <option name="project" value="LOCAL" />
       <updated>1769358406959</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="a">
+      <option name="closed" value="true" />
+      <created>1769360171149</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1769360171150</updated>
+    </task>
+    <task id="LOCAL-00003" summary="a">
+      <option name="closed" value="true" />
+      <created>1769360206730</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1769360206730</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
