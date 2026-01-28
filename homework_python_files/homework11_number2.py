@@ -1,4 +1,4 @@
-with open("oscar", "r") as obj:
+with open("../files/oscar", "r") as obj:
     oscar={}
     ages={}
     for line in obj:

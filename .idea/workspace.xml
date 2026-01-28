@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59ddff7c-3613-4f38-9af7-efc972865a03" name="Changes" comment="a">
-      <change afterPath="$PROJECT_DIR$/homework11_number2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oscar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/clients" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_python_files/homework12_clients.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11_number1.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_python_files/homework11_number1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11_number2.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_python_files/homework11_number2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numbers" beforeDir="false" afterPath="$PROJECT_DIR$/files/numbers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oscar" beforeDir="false" afterPath="$PROJECT_DIR$/files/oscar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/squared_nums" beforeDir="false" afterPath="$PROJECT_DIR$/files/squared_nums" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +53,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.homework11.executor": "Run",
     "Python.homework11_number2.executor": "Run",
+    "Python.homework12_clients.executor": "Run",
     "Python.number1.executor": "Run",
     "Python.number11.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -63,6 +69,8 @@
       <recent name="C:\Users\user\PycharmProjects\PythonProject\PythonProject\PythonProject" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PycharmProjects\PythonProject\PythonProject\PythonProject\homework_python_files" />
+      <recent name="C:\Users\user\PycharmProjects\PythonProject\PythonProject\PythonProject\files" />
       <recent name="C:\Users\user\PycharmProjects\PythonProject\PythonProject\PythonProject\.venv" />
     </key>
   </component>
@@ -105,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769360206730</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="a">
+      <option name="closed" value="true" />
+      <created>1769362050479</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1769362050479</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
