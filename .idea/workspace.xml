@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59ddff7c-3613-4f38-9af7-efc972865a03" name="Changes" comment="a">
-      <change afterPath="$PROJECT_DIR$/files/clients" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_python_files/homework12_clients.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework11_number1.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_python_files/homework11_number1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework11_number2.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_python_files/homework11_number2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/numbers" beforeDir="false" afterPath="$PROJECT_DIR$/files/numbers" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oscar" beforeDir="false" afterPath="$PROJECT_DIR$/files/oscar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/squared_nums" beforeDir="false" afterPath="$PROJECT_DIR$/files/squared_nums" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_python_files/homework13_errors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,42 +23,42 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "mimimetreveli"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mimimetreveli&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/mimimetreveli/PythonProject.git",
-    "accountId": "307172c0-cd7c-4d30-9843-fd1cd0d3334d"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mimimetreveli/PythonProject.git&quot;,
+    &quot;accountId&quot;: &quot;307172c0-cd7c-4d30-9843-fd1cd0d3334d&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="38kzJmGsaXNcUsaVrLp52PjeK7d" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.homework11.executor": "Run",
-    "Python.homework11_number2.executor": "Run",
-    "Python.homework12_clients.executor": "Run",
-    "Python.number1.executor": "Run",
-    "Python.number11.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/user/PycharmProjects/PythonProject/PythonProject/PythonProject",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.homework11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework11_number2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework12_clients.executor&quot;: &quot;Run&quot;,
+    &quot;Python.number1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.number11.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/PycharmProjects/PythonProject/PythonProject/PythonProject&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\user\PycharmProjects\PythonProject\PythonProject\PythonProject" />
@@ -121,7 +116,23 @@
       <option name="project" value="LOCAL" />
       <updated>1769362050479</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="a">
+      <option name="closed" value="true" />
+      <created>1769629449432</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1769629449432</updated>
+    </task>
+    <task id="LOCAL-00006" summary="a">
+      <option name="closed" value="true" />
+      <created>1769629510438</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1769629510438</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
