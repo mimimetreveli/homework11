@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59ddff7c-3613-4f38-9af7-efc972865a03" name="Changes" comment="a">
-      <change afterPath="$PROJECT_DIR$/homework_python_files/homework14_classes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_python_files/classwork.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_python_files/homework14_ig.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +46,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.classwork.executor": "Run",
     "Python.homework11.executor": "Run",
     "Python.homework11_number2.executor": "Run",
     "Python.homework12_clients.executor": "Run",
@@ -141,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770925217788</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="a">
+      <option name="closed" value="true" />
+      <created>1772049037343</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1772049037343</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
